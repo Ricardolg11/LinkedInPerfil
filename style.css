@@ -540,10 +540,7 @@
 
   li.cargo::after{
     background-color: var(--texto-secundario);
-    left: 4px;
-    top: -5%;
-    width: 1px;
-    height: 48px;
+   
   }
   
   li.cargo:not(:last-child){
